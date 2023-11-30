@@ -1,0 +1,9 @@
+.main-section{
+    min-height: 100vh;
+    /* background-color: #000; */
+    background-image: url( https://wallpaperaccess.com/full/11037497.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* position: relative; */
+}

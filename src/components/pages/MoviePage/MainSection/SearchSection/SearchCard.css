@@ -1,0 +1,25 @@
+.search-card{
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid lightgray;
+}
+
+.search-img{
+    display: flex;
+    width: 15%;
+    height: 20%;
+}
+
+.search-img img{
+    width: 86px;
+    height: 92px;
+}
+
+.search-desc{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}

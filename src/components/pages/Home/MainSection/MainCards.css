@@ -1,0 +1,10 @@
+.main-cards{
+    color: #fff;
+    height: 30%;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px 100px;
+    margin: auto;
+}
